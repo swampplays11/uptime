@@ -5,7 +5,7 @@
 </p>
 
 ```diff
-- The source code won't work on Glitch/Repl.it.
++ The source code will work on Glitch/Repl.it.
 + Node V14 Required.
 ```
 
@@ -17,10 +17,6 @@ Uptimer is a open-source, free discord bot that allows you to make your projects
 
 - [Glitch](https://glitch.com/)
 - [Repl](http://repl.it/)
-
-## Discord Server
-
-- [Cursor Gaming](https://discord.gg/mnQvdsZx5F)
 
 ## Ussage
 
