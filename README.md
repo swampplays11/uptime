@@ -34,7 +34,7 @@ Uptimer is a open-source, free discord bot that allows you to make your projects
 
 ![Uptimer Channel](https://github.com/naveenpoddar/uptimer/blob/main/images/uptimer.png?raw=true)
 
-5. Now add that url in Uptimer bot, using this command `(your prefix)add <the url you just copied>`.
+5. Now add that url in Uptimer bot, using this command `<prefix>add <the url you just copied>`.
 
 > Works for [Repl](http://repl.it/)
 
@@ -64,11 +64,11 @@ app.listen(port, () => {
 
 ![Repl Second](https://github.com/naveenpoddar/uptimer/blob/main/images/repl-second.png?raw=true)
 
-4. Next Join [Cursor Gaming](https://discord.gg/mnQvdsZx5F) Discord Server and go to the uptimer channel.
+4. Next go to your Discord Server with uptimer and go to the uptimer channel.
 
 ![Uptimer Channel](https://github.com/naveenpoddar/uptimer/blob/main/images/uptimer.png?raw=true)
 
-5. Now add that url in Uptimer bot, using this command `,add <the url you just copied>`.
+5. Now add that url in Uptimer bot, using this command `<prefix>add <the url you just copied>`.
 
 ## Queries?
 
