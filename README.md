@@ -30,11 +30,11 @@ Uptimer is a open-source, free discord bot that allows you to make your projects
 
 ![Glitch Second](https://github.com/naveenpoddar/uptimer/blob/main/images/glitch-second.png?raw=true)
 
-4. Next Join [Cursor Gaming](https://discord.gg/mnQvdsZx5F) Discord Server and go to the uptimer channel.
+4. Next go to your Discord Server with uptimer and go to the uptimer channel.
 
 ![Uptimer Channel](https://github.com/naveenpoddar/uptimer/blob/main/images/uptimer.png?raw=true)
 
-5. Now add that url in Uptimer bot, using this command `,add <the url you just copied>`.
+5. Now add that url in Uptimer bot, using this command `(your prefix)add <the url you just copied>`.
 
 > Works for [Repl](http://repl.it/)
 
@@ -72,7 +72,7 @@ app.listen(port, () => {
 
 ## Queries?
 
-If you have any questions regarding this project, or you are not able to use this bot, feel free to ask in our discord server [Cursor Gaming](https://discord.gg/mnQvdsZx5F)
+If you have any questions regarding this project, or you are not able to use this bot, feel free to dm me at swampplays11#6613
 
 ## .env File
 
